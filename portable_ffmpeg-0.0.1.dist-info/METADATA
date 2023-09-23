@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: portable-ffmpeg
+Version: 0.0.1
+Summary: a portable static build of ffmpeg stored in the module path
+Author-email: Omar Darwiche <omar.darwiche@itxi.net>
+License: MIT
+Requires-Python: >=3.9
+Requires-Dist: wget
+

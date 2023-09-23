@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: portable-ffmpeg
+Version: 0.0.2
+Summary: a portable static build of ffmpeg stored in the module path
+Author-email: Ali Ozeir <aozeir5@gmail.com>
+License: MIT
+Requires-Python: >=3.9

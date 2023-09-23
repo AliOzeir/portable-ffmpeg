@@ -1,0 +1,14 @@
+pyproject.toml
+setup.py
+portable_ffmpeg/__init__.py
+portable_ffmpeg/portable_ffmpeg.py
+portable_ffmpeg.egg-info/PKG-INFO
+portable_ffmpeg.egg-info/SOURCES.txt
+portable_ffmpeg.egg-info/dependency_links.txt
+portable_ffmpeg.egg-info/requires.txt
+portable_ffmpeg.egg-info/top_level.txt
+portable_ffmpeg/ffmpeg-5.1.1-amd64-static/GPLv3.txt
+portable_ffmpeg/ffmpeg-5.1.1-amd64-static/ffmpeg
+portable_ffmpeg/ffmpeg-5.1.1-amd64-static/ffprobe
+portable_ffmpeg/ffmpeg-5.1.1-amd64-static/qt-faststart
+portable_ffmpeg/ffmpeg-5.1.1-amd64-static/readme.txt

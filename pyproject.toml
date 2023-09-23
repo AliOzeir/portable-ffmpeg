@@ -1,0 +1,12 @@
+[project]
+name = "portable_ffmpeg"
+version = "0.0.2"
+authors = [
+  { name="Ali Ozeir", email="aozeir5@gmail.com" },
+]
+description = "a portable static build of ffmpeg stored in the module path"
+requires-python = ">=3.9"
+
+[build-system]
+requires = ["setuptools>=60.0", "wget"]
+build-backend = "setuptools.build_meta"

@@ -1,0 +1,16 @@
+portable_ffmpeg-0.0.1.dist-info/INSTALLER,sha256=zuuue4knoyJ-UwPPXg8fezS7VCrXJQrAP7zeNuwvFQg,4
+portable_ffmpeg-0.0.1.dist-info/METADATA,sha256=IOtwCsJfYODjWOURvUOvv5M86on1OYVN-7uhoHcalNI,247
+portable_ffmpeg-0.0.1.dist-info/RECORD,,
+portable_ffmpeg-0.0.1.dist-info/REQUESTED,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+portable_ffmpeg-0.0.1.dist-info/WHEEL,sha256=pkctZYzUS4AYVn6dJ-7367OJZivF2e8RA9b_ZBjif18,92
+portable_ffmpeg-0.0.1.dist-info/direct_url.json,sha256=yzuzwKh258Y_qVtTaHVfF6QN5tv8InNneZrFu2roCEI,139
+portable_ffmpeg-0.0.1.dist-info/top_level.txt,sha256=TnrK2yuns0fFQar2Av0ffFLuSpiinM_xaJQwqNoQmUE,16
+portable_ffmpeg/__init__.py,sha256=CDgnYwn6hxKt_4beh5X_7vxDmkite7D0mhCCr6wJWvI,39
+portable_ffmpeg/__pycache__/__init__.cpython-311.pyc,,
+portable_ffmpeg/__pycache__/portable_ffmpeg.cpython-311.pyc,,
+portable_ffmpeg/ffmpeg-5.1.1-amd64-static/GPLv3.txt,sha256=jOtLnuWt7d5Hsx6XXB2QxzrSe2sWWh3NgMfFRetluQM,35147
+portable_ffmpeg/ffmpeg-5.1.1-amd64-static/ffmpeg,sha256=Ak6RpHvc2u4S7bytEGxtuVQ9dLeR5HPxpbu6bV86XMU,78502560
+portable_ffmpeg/ffmpeg-5.1.1-amd64-static/ffprobe,sha256=snkDP2ID4tW_IQ5g2BtvFk-95V_V5321XmOGDB5GVdM,78400704
+portable_ffmpeg/ffmpeg-5.1.1-amd64-static/qt-faststart,sha256=1YZge2BQuw0XLBy4O29ld4Nyqa68WVnv6HsFFCBBqpY,690888
+portable_ffmpeg/ffmpeg-5.1.1-amd64-static/readme.txt,sha256=zO0SoOX81uh-pGUfLA3-o7wjfKZvGEJvPXK3T4SFT1k,2234
+portable_ffmpeg/portable_ffmpeg.py,sha256=HJpSNekEbBJY5-ckdpMC8qyOYLQvmPUSBERp6rBvbhs,201
